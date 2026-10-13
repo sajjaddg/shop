@@ -1,0 +1,103 @@
+{
+  "generator": "Built-in image_gen",
+  "uiBackground": "#ECEAE5",
+  "note": "User requested regeneration of all homepage photos and supplied the collection abaya reference. Original project assets are preserved. The hero retains genuine transparency to show the UI wordmark.",
+  "images": [
+    {
+      "name": "occasion",
+      "path": "C:/Users/alrae/AppData/Local/Temp/codex-clipboard-16695334-c5f6-491f-bc1d-55c592c28500.png",
+      "transparent": false,
+      "prompt": "Use case: identity-preserve. Edit the attached photo for a Persian fashion boutique website collection image. Preserve the exact woman, her facial identity, hairstyle, pose, body proportions, black full-length abaya, gold embroidered trim, tassels, gold fringe at chest, and shoes. Regenerate only the environment and lighting as a premium photorealistic fashion studio photograph: a seamless matte warm light stone cyclorama wall and floor matching UI color #ECEAE5, nearly uniform warm gray beige with very subtle natural soft contact shadow. Remove the decorative arch, mirror, plants, tiles, all interior furnishings. Soft diffuse studio daylight, realistic fabric texture and gold details. Centered entire model head to toes visible, portrait 2:3 framing with small balanced breathing room above head and under feet, model fills about 85% of image height. No text, logo, border, watermark or props. Keep garment absolutely unchanged.",
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-0e92c4bd-d355-4e86-b48b-a33ab8dfad64.png",
+      "output": "public/images/home/occasion.jpg"
+    },
+    {
+      "name": "hero-cutout",
+      "path": "C:/Users/alrae/OneDrive/Desktop/khom/shop/public/images/hero-cutout.png",
+      "transparent": true,
+      "prompt": "Use case: identity-preserve. Refine and regenerate this existing fashion model cutout for a warm stone minimalist boutique website hero. Preserve the exact woman, her face, hair, pose, black scarf, long black abaya with silver blue floral embroidery along front and shoulder, black shoes, and proportions. Clean photorealistic soft neutral studio light suitable for a #ECEAE5 website background. Fix noisy jagged cutout edges around hair and hands. Entire figure head to shoes fully visible, centered, tightly framed portrait, no cropping of hands. Genuine transparent alpha background, no opaque wall, no black background, no text, no logo, no watermark. Keep original garment and embroidery placement.",
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-90e9b87a-62aa-46c3-a285-4654cb520011.png",
+      "output": "public/images/home/hero-cutout.png"
+    },
+    {
+      "name": "shila",
+      "path": "C:/Users/alrae/OneDrive/Desktop/khom/shop/public/images/shila.jpg",
+      "transparent": false,
+      "prompt": "Use case: identity-preserve. Regenerate this product photograph with only its background and lighting changed. Preserve this exact woman, facial identity, hair, pose, ornate green and gold dress and translucent green embroidered shawl held out at both sides, garment patterns and shoes. Seamless matte warm light stone studio cyclorama matching website background #ECEAE5, almost uniform pale warm gray beige wall and floor, a restrained soft contact shadow. Remove the window, curtains, greenery, and tile patterns. Premium photorealistic fashion studio photograph, soft diffuse daylight, fine fabric and gold embroidery. Entire model head to shoes visible, portrait 2:3, centered, model about 86% height, a little headroom. No props, text, watermark, logo, border.",
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-0836203b-ad8d-4219-970c-8cf7eab2f6b3.png",
+      "output": "public/images/home/shila.jpg"
+    },
+    {
+      "name": "almas",
+      "detail": "Keep the long black abaya and its silver jeweled neckline, cuffs and scattered diamond motifs exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "path": "C:/Users/alrae/OneDrive/Desktop/khom/shop/public/images/almas.jpg",
+      "prompt": "Use case: identity-preserve. Edit the attached fashion photograph for a Persian boutique website. Regenerate only the backdrop and photographic lighting. Preserve the exact woman, face, hair, body proportions, hand pose, garment cut, original colors, embroidery, fabric details and accessories. Replace the entire original interior/outdoor setting with a seamless matte warm light stone studio cyclorama matching website canvas #ECEAE5: almost uniform warm pale gray beige wall and floor with only subtle soft contact shadow. Remove windows, greenery, furniture, decorations, patterned tiles, rails and architectural clutter. Soft diffuse neutral studio daylight, premium photorealistic catalogue photography. No text, logos, watermark, border or new props. Keep the long black abaya and its silver jeweled neckline, cuffs and scattered diamond motifs exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "transparent": false,
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-58844921-d456-4453-892b-eb41be228ef8.png",
+      "output": "public/images/home/almas.jpg"
+    },
+    {
+      "name": "negin",
+      "detail": "Keep the teal green dress, jeweled silver neckline, belted waist, jeweled shoulders and side panels exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "path": "C:/Users/alrae/OneDrive/Desktop/khom/shop/public/images/negin.jpg",
+      "prompt": "Use case: identity-preserve. Edit the attached fashion photograph for a Persian boutique website. Regenerate only the backdrop and photographic lighting. Preserve the exact woman, face, hair, body proportions, hand pose, garment cut, original colors, embroidery, fabric details and accessories. Replace the entire original interior/outdoor setting with a seamless matte warm light stone studio cyclorama matching website canvas #ECEAE5: almost uniform warm pale gray beige wall and floor with only subtle soft contact shadow. Remove windows, greenery, furniture, decorations, patterned tiles, rails and architectural clutter. Soft diffuse neutral studio daylight, premium photorealistic catalogue photography. No text, logos, watermark, border or new props. Keep the teal green dress, jeweled silver neckline, belted waist, jeweled shoulders and side panels exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "transparent": false,
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-d307120d-f31c-4096-a79a-aee3ac4d9a2e.png",
+      "output": "public/images/home/negin.jpg"
+    },
+    {
+      "name": "ana",
+      "detail": "Keep the black and gold chevron embroidered sheer long dress and embroidered head scarf, both hands at waist, gold fringed sleeves exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "path": "C:/Users/alrae/OneDrive/Desktop/khom/shop/public/images/ana.jpg",
+      "prompt": "Use case: identity-preserve. Edit the attached fashion photograph for a Persian boutique website. Regenerate only the backdrop and photographic lighting. Preserve the exact woman, face, hair, body proportions, hand pose, garment cut, original colors, embroidery, fabric details and accessories. Replace the entire original interior/outdoor setting with a seamless matte warm light stone studio cyclorama matching website canvas #ECEAE5: almost uniform warm pale gray beige wall and floor with only subtle soft contact shadow. Remove windows, greenery, furniture, decorations, patterned tiles, rails and architectural clutter. Soft diffuse neutral studio daylight, premium photorealistic catalogue photography. No text, logos, watermark, border or new props. Keep the black and gold chevron embroidered sheer long dress and embroidered head scarf, both hands at waist, gold fringed sleeves exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "transparent": false,
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-6add78ac-47e6-4b16-80ac-2ef2a23bfa69.png",
+      "output": "public/images/home/ana.jpg"
+    },
+    {
+      "name": "jewelled-coat",
+      "detail": "Keep the short black jacket and black trousers, white/silver jewels diagonally from one shoulder across the chest, black head scarf, one raised hand exactly. Preserve the original knees-up portrait crop and centered scale, 2:3 framing, head near upper 10% of image.",
+      "path": "C:/Users/alrae/OneDrive/Desktop/khom/shop/public/images/jewelled-coat.jpg",
+      "prompt": "Use case: identity-preserve. Edit the attached fashion photograph for a Persian boutique website. Regenerate only the backdrop and photographic lighting. Preserve the exact woman, face, hair, body proportions, hand pose, garment cut, original colors, embroidery, fabric details and accessories. Replace the entire original interior/outdoor setting with a seamless matte warm light stone studio cyclorama matching website canvas #ECEAE5: almost uniform warm pale gray beige wall and floor with only subtle soft contact shadow. Remove windows, greenery, furniture, decorations, patterned tiles, rails and architectural clutter. Soft diffuse neutral studio daylight, premium photorealistic catalogue photography. No text, logos, watermark, border or new props. Keep the short black jacket and black trousers, white/silver jewels diagonally from one shoulder across the chest, black head scarf, one raised hand exactly. Preserve the original knees-up portrait crop and centered scale, 2:3 framing, head near upper 10% of image.",
+      "transparent": false,
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-5e69cf5b-3f74-4307-b108-13989b746fdd.png",
+      "output": "public/images/home/jewelled-coat.jpg"
+    },
+    {
+      "name": "arabian-dress",
+      "detail": "Keep the full length white Arab dress and open white cape with ornate gold and green jeweled embroidery, open outstretched arms and heels exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "path": "C:/Users/alrae/OneDrive/Desktop/khom/shop/public/images/arabian-dress.jpg",
+      "prompt": "Use case: identity-preserve. Edit the attached fashion photograph for a Persian boutique website. Regenerate only the backdrop and photographic lighting. Preserve the exact woman, face, hair, body proportions, hand pose, garment cut, original colors, embroidery, fabric details and accessories. Replace the entire original interior/outdoor setting with a seamless matte warm light stone studio cyclorama matching website canvas #ECEAE5: almost uniform warm pale gray beige wall and floor with only subtle soft contact shadow. Remove windows, greenery, furniture, decorations, patterned tiles, rails and architectural clutter. Soft diffuse neutral studio daylight, premium photorealistic catalogue photography. No text, logos, watermark, border or new props. Keep the full length white Arab dress and open white cape with ornate gold and green jeweled embroidery, open outstretched arms and heels exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "transparent": false,
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-5f14f02f-7d27-4b55-9bae-affbddde1f1b.png",
+      "output": "public/images/home/arabian-dress.jpg"
+    },
+    {
+      "name": "shirt-trousers",
+      "detail": "Keep the mocha brown fitted buttoned blouse and wide leg trousers, black head wrap, one hand near shoulder, original shoes and pose exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "path": "C:/Users/alrae/OneDrive/Desktop/khom/shop/public/images/shirt-trousers.jpg",
+      "prompt": "Use case: identity-preserve. Edit the attached fashion photograph for a Persian boutique website. Regenerate only the backdrop and photographic lighting. Preserve the exact woman, face, hair, body proportions, hand pose, garment cut, original colors, embroidery, fabric details and accessories. Replace the entire original interior/outdoor setting with a seamless matte warm light stone studio cyclorama matching website canvas #ECEAE5: almost uniform warm pale gray beige wall and floor with only subtle soft contact shadow. Remove windows, greenery, furniture, decorations, patterned tiles, rails and architectural clutter. Soft diffuse neutral studio daylight, premium photorealistic catalogue photography. No text, logos, watermark, border or new props. Keep the mocha brown fitted buttoned blouse and wide leg trousers, black head wrap, one hand near shoulder, original shoes and pose exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "transparent": false,
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-48887b7d-b627-4f00-83b2-6119b064d884.png",
+      "output": "public/images/home/shirt-trousers.jpg"
+    },
+    {
+      "name": "embroidered-coat",
+      "detail": "Keep the black hip length coat with white embroidered butterflies and silver dotted vines on the front and one sleeve, black trousers, scarf, hand on hip and shoes exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "path": "C:/Users/alrae/OneDrive/Desktop/khom/shop/public/images/embroidered-coat.jpg",
+      "prompt": "Use case: identity-preserve. Edit the attached fashion photograph for a Persian boutique website. Regenerate only the backdrop and photographic lighting. Preserve the exact woman, face, hair, body proportions, hand pose, garment cut, original colors, embroidery, fabric details and accessories. Replace the entire original interior/outdoor setting with a seamless matte warm light stone studio cyclorama matching website canvas #ECEAE5: almost uniform warm pale gray beige wall and floor with only subtle soft contact shadow. Remove windows, greenery, furniture, decorations, patterned tiles, rails and architectural clutter. Soft diffuse neutral studio daylight, premium photorealistic catalogue photography. No text, logos, watermark, border or new props. Keep the black hip length coat with white embroidered butterflies and silver dotted vines on the front and one sleeve, black trousers, scarf, hand on hip and shoes exactly. Full figure head to shoes centered, portrait 2:3 composition, model occupies about 86% height with a small margin above head.",
+      "transparent": false,
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-a39206a4-d51d-4abc-85b7-c04805a81fdd.png",
+      "output": "public/images/home/embroidered-coat.jpg"
+    },
+    {
+      "name": "shop",
+      "detail": "Keep this exact woman in the mocha shirt and trousers, her original hairstyle, original mirror selfie pose, smartphone covering her face and turquoise nails. Do not reveal or invent a face behind the phone. Remove all shop racks, shelves and mirror frame, making the neutral studio backdrop match #ECEAE5. Preserve the original head to thigh portrait crop, 3:4 aspect ratio, head near upper 5% of image.",
+      "path": "C:/Users/alrae/OneDrive/Desktop/khom/shop/public/images/shop.jpg",
+      "prompt": "Use case: identity-preserve. Edit the attached fashion photograph for a Persian boutique website. Regenerate only the backdrop and photographic lighting. Preserve the exact woman, face, hair, body proportions, hand pose, garment cut, original colors, embroidery, fabric details and accessories. Replace the entire original interior/outdoor setting with a seamless matte warm light stone studio cyclorama matching website canvas #ECEAE5: almost uniform warm pale gray beige wall and floor with only subtle soft contact shadow. Remove windows, greenery, furniture, decorations, patterned tiles, rails and architectural clutter. Soft diffuse neutral studio daylight, premium photorealistic catalogue photography. No text, logos, watermark, border or new props. Keep this exact woman in the mocha shirt and trousers, her original hairstyle, original mirror selfie pose, smartphone covering her face and turquoise nails. Do not reveal or invent a face behind the phone. Remove all shop racks, shelves and mirror frame, making the neutral studio backdrop match #ECEAE5. Preserve the original head to thigh portrait crop, 3:4 aspect ratio, head near upper 5% of image.",
+      "transparent": false,
+      "generatedPath": "C:\\Users\\alrae\\.codex\\generated_images\\01a135b4-848f-7c82-95f5-89ff280a0612\\exec-ab3e6fda-64ed-419f-acd4-985560261c96.png",
+      "output": "public/images/home/shop.jpg"
+    }
+  ]
+}
